@@ -1,0 +1,5 @@
+symbol count: 63
+lines count: 4
+Vowels count: 25
+Consonant count: 29
+number count: 0
