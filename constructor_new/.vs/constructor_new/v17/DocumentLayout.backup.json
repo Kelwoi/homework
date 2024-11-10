@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B_gitcom\\constructor_new\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{235F4183-4932-4EAA-AAC2-7DAB025F193A}|constructor_new.vcxproj|E:\\C\u002B\u002B_gitcom\\constructor_new\\constructor_new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{235F4183-4932-4EAA-AAC2-7DAB025F193A}|constructor_new.vcxproj|solutionrelative:constructor_new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235F4183-4932-4EAA-AAC2-7DAB025F193A}|constructor_new.vcxproj|E:\\C\u002B\u002B_gitcom\\constructor_new\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{235F4183-4932-4EAA-AAC2-7DAB025F193A}|constructor_new.vcxproj|solutionrelative:Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B_gitcom\\constructor_new\\Header.h",
+              "RelativeDocumentMoniker": "Header.h",
+              "ToolTip": "E:\\C\u002B\u002B_gitcom\\constructor_new\\Header.h",
+              "RelativeToolTip": "Header.h",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv2UAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T19:19:56.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "constructor_new.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B_gitcom\\constructor_new\\constructor_new.cpp",
+              "RelativeDocumentMoniker": "constructor_new.cpp",
+              "ToolTip": "E:\\C\u002B\u002B_gitcom\\constructor_new\\constructor_new.cpp*",
+              "RelativeToolTip": "constructor_new.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T19:19:23.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

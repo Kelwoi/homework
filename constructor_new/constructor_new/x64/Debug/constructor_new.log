@@ -1,0 +1,5 @@
+﻿  constructor_new.cpp
+E:\C++_gitcom\constructor_new\Header.h(104,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'constructor_new.cpp')
+  
+  constructor_new.vcxproj -> E:\C++_gitcom\constructor_new\x64\Debug\constructor_new.exe
