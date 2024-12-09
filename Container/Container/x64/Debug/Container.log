@@ -1,0 +1,18 @@
+﻿  Container.cpp
+E:\C++_gitcom\Container\array.h(180,16): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Container.cpp')
+      E:\C++_gitcom\Container\array.h(180,16):
+      the template instantiation context (the oldest one first) is
+          E:\C++_gitcom\Container\Container.cpp(6,13):
+          see reference to class template instantiation 'Array<int>' being compiled
+          E:\C++_gitcom\Container\array.h(176,38):
+          while compiling class template member function 'void Array<int>::Add(const T &)'
+          with
+          [
+              T=int
+          ]
+              E:\C++_gitcom\Container\Container.cpp(24,7):
+              see the first reference to 'Array<int>::Add' in 'main'
+  
+E:\C++_gitcom\Container\array.h(58,1): warning C4715: 'Array<int>::GetAt': not all control paths return a value
+  Container.vcxproj -> E:\C++_gitcom\Container\x64\Debug\Container.exe
