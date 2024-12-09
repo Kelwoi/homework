@@ -1,0 +1,11 @@
+﻿  VendingMachine.cpp
+E:\C++_gitcom\project_c++\Coffee.h(7,44): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file 'VendingMachine.cpp')
+  
+  project_c++.cpp
+E:\C++_gitcom\project_c++\Coffee.h(7,44): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  (compiling source file 'project_c++.cpp')
+  
+  Generating Code...
+  LINK : E:\C++_gitcom\project_c++\x64\Debug\project_c++.exe not found or not built by the last incremental link; performing full link
+  project_c++.vcxproj -> E:\C++_gitcom\project_c++\x64\Debug\project_c++.exe
