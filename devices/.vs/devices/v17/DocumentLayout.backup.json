@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B_gitcom\\devices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36A7E9DB-A3AC-4F3F-A6EB-67A41297F566}|devices.vcxproj|E:\\C\u002B\u002B_gitcom\\devices\\AirConditioner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36A7E9DB-A3AC-4F3F-A6EB-67A41297F566}|devices.vcxproj|solutionrelative:AirConditioner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A7E9DB-A3AC-4F3F-A6EB-67A41297F566}|devices.vcxproj|E:\\C\u002B\u002B_gitcom\\devices\\TV.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36A7E9DB-A3AC-4F3F-A6EB-67A41297F566}|devices.vcxproj|solutionrelative:TV.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A7E9DB-A3AC-4F3F-A6EB-67A41297F566}|devices.vcxproj|E:\\C\u002B\u002B_gitcom\\devices\\IDevice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36A7E9DB-A3AC-4F3F-A6EB-67A41297F566}|devices.vcxproj|solutionrelative:IDevice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A7E9DB-A3AC-4F3F-A6EB-67A41297F566}|devices.vcxproj|E:\\C\u002B\u002B_gitcom\\devices\\devices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36A7E9DB-A3AC-4F3F-A6EB-67A41297F566}|devices.vcxproj|solutionrelative:devices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A7E9DB-A3AC-4F3F-A6EB-67A41297F566}|devices.vcxproj|E:\\C\u002B\u002B_gitcom\\devices\\SmartRemote.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36A7E9DB-A3AC-4F3F-A6EB-67A41297F566}|devices.vcxproj|solutionrelative:SmartRemote.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmartRemote.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B_gitcom\\devices\\SmartRemote.h",
+              "RelativeDocumentMoniker": "SmartRemote.h",
+              "ToolTip": "E:\\C\u002B\u002B_gitcom\\devices\\SmartRemote.h",
+              "RelativeToolTip": "SmartRemote.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-07T19:28:07.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirConditioner.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B_gitcom\\devices\\AirConditioner.h",
+              "RelativeDocumentMoniker": "AirConditioner.h",
+              "ToolTip": "E:\\C\u002B\u002B_gitcom\\devices\\AirConditioner.h*",
+              "RelativeToolTip": "AirConditioner.h*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-07T19:25:46.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TV.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B_gitcom\\devices\\TV.h",
+              "RelativeDocumentMoniker": "TV.h",
+              "ToolTip": "E:\\C\u002B\u002B_gitcom\\devices\\TV.h",
+              "RelativeToolTip": "TV.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-07T19:23:03.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDevice.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B_gitcom\\devices\\IDevice.h",
+              "RelativeDocumentMoniker": "IDevice.h",
+              "ToolTip": "E:\\C\u002B\u002B_gitcom\\devices\\IDevice.h",
+              "RelativeToolTip": "IDevice.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-07T19:21:58.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "devices.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B_gitcom\\devices\\devices.cpp",
+              "RelativeDocumentMoniker": "devices.cpp",
+              "ToolTip": "E:\\C\u002B\u002B_gitcom\\devices\\devices.cpp",
+              "RelativeToolTip": "devices.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T19:21:09.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
